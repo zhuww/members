@@ -1,6 +1,6 @@
 # NANOGrav Members
 
-This repo contains `.tex` files for generating NANOGrav author lists.
+This repo contains `.tex` files and scripts for generating NANOGrav author lists.
 
 
 ## NANOGrav Authorship policy
