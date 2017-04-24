@@ -1,0 +1,137 @@
+- name: Paul Baker
+  affiliation: Department of Physics and Astronomy, West Virginia University
+  location: Morgantown, WV
+  status: associate
+
+- name: Harsha Blumer
+  affiliation: Department of Physics and Astronomy, West Virginia University
+  location: Morgantown, WV
+  status: associate
+
+- name: Paul Brook
+  affiliation: Department of Physics and Astronomy, West Virginia University
+  location: Morgantown, WV
+  status: associate
+
+- name: Sydney Chamberlin
+  affiliation: Penn State University
+  location: State College, PA
+  status: full
+
+- name: Steve Croft
+  affiliation: University of California, Berkeley
+  location: Berkeley, CA
+  status: associate
+
+- name: Megan DeCesar
+  affiliation: Lafayette College
+  location: Easton, PA
+  status: associate
+
+- name: Justin Ellis
+  affiliation: Jet Propulsion Laboratory, California Institute of Technology
+  location: Pasadena, CA
+  status: full
+
+- name: Emmanuel Fonseca
+  affiliation: Department of Physics, McGill University
+  location: Montreal, QC Canada
+  status: full
+
+- name: Rutger van Haasteren
+  affiliation: Jet Propulsion Laboratory, California Institute of Technology
+  location: Pasadena, CA
+  status: full
+
+- name: Jeff Hazboun
+  affiliation: Department of Physics, University of Texas Rio Grande Valley 
+  location: Brownsville, TX
+  status: associate 
+
+- name: Glenn Jones
+  affiliation: Columbia University
+  location: New York, NY
+  status: associate
+
+- name: Michael Lam
+  affiliation: Department of Physics and Astronomy, West Virginia University
+  location: Morgantown, WV
+  status: full
+
+- name: Lina Levin
+  affiliation: University of Manchester
+  location: Manchester, England, UK
+  status: full
+
+- name: Natalia Lewandowska
+  affiliation: Green Bank Observatory
+  location: Green Bank, WV
+  status: associate
+
+- name: Jintao Luo
+  affiliation: National Radio Astronomy Observatory
+  location: Charlottesville, VA
+  status: full
+
+- name: Dusty Madison 
+  affiliation: National Radio Astronomy Observatory
+  location: Charlottesville, VA
+  status: full
+
+- name: Chiara Mingarelli
+  affiliation: Max Planck Institute for Radio Astronomy
+  location: Bonn, Germany
+  status: full
+
+- name: Cherry Ng
+  affiliation: Department of Physics and Astronomy, University of British Columbia
+  location: Vancouver, BC Canada
+  website: https://www.phas.ubc.ca/users/cherry-ng
+  status: full
+
+- name: Nipuni Palliyaguru
+  affiliation: Department of Physics, Texas Tech University
+  location: Lubbock, TX
+  website: http://myweb.ttu.edu/npalliya/index.htm
+  status: associate
+
+- name: Tim Pennucci
+  affiliation: Department of Physics and Astronomy, West Virginia University
+  location: Morgantown, WV
+  status: full
+
+- name: Laura Sampson
+  affiliation: Department of Physics, Northwestern University
+  location: Evanston, IL
+  status: associate
+
+- name: Andrew Seymour
+  affiliation: NAIC Arecibo Observatory
+  location: Arecibo, PR
+  status: associate
+
+- name: Kevin Stovall
+  affiliation: University of New Mexico
+  location: Albuquerque, NM
+  status: full
+
+- name: Joe Swiggum
+  affiliation: University of Wisconsin Milwaukee
+  location: Milwaukee, WI
+  status: full
+
+- name: Stephen Taylor
+  affiliation: Jet Propulsion Laboratory, California Institute of Technology
+  location: Pasadena, CA
+  status: full
+
+- name: Sarah Vigeland
+  affiliation: Jet Propulsion Laboratory, California Institute of Technology
+  location: Pasadena, CA
+  status: associate
+
+- name: WeiWei Zhu
+  affiliation: Max Planck Institute for Radio Astronomy
+  location: Bonn, Germany
+  status: full
+

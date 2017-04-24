@@ -1,0 +1,228 @@
+- name: Zaven Arzoumanian
+  affiliation: Universities Space Research Association & NASA Goddard Space Flight Center
+  location: Greenbelt, MD
+  website: http://science.gsfc.nasa.gov/sed/index.cfm?fuseAction=people.jumpBio&&iPhonebookId=2538
+  status: full
+
+- name: Jim Basney
+  affiliation: National Center for Supercomputing Applications, University of Illinois at Urbana-Champaign
+  location: Urbana, IL
+  status: associate
+
+- name: Adam Brazier
+  affiliation: Department of Physics, Cornell University
+  location: Ithaca, NY
+  status: full
+
+- name: Sarah Burke-Spolaor
+  affiliation: Department of Physics and Astronomy, West Virginia University
+  location: Morgantown, WV
+  website: http://www.astro.caltech.edu/~spolaor/ 
+  status: full
+
+- name: Shami Chatterjee
+  affiliation: Cornell Center for Astrophysics and Planetary Science, Cornell University 
+  location: Ithaca, NY
+  website: http://www.astro.cornell.edu/~shami/
+  status: full
+
+- name: Brian Christy
+  affiliation: Notre Dame of Maryland University
+  location: Baltimore, MD
+  status: full
+
+- name: James Cordes
+  affiliation: Department of Astronomy, Cornell University 
+  location: Ithaca, NY
+  website: http://www.astro.cornell.edu/people/facstaff-detail.php?pers_id=98
+  status: full
+
+- name: Neil Cornish
+  affiliation: Department of Physics, Montana State University
+  location: Bozeman, MT
+  website: http://www.physics.montana.edu/people/facdetail.asp?id_PersonDetails=8
+  status: full
+
+- name: Fronefield Crawford
+  affiliation: Franklin & Marshall College
+  location: Lancaster, PA
+  website: http://venus.fandm.edu/~fcrawfor/
+  status: full
+
+- name: Paul Demorest
+  affiliation: National Radio Astronomy Observatory
+  location: Soccoro, NM
+  website: http://www.cv.nrao.edu/~pdemores/
+  status: full
+
+- name: Julia Deneva
+  affiliation: Naval Research Laboratory
+  location: Washington D.C.
+  status: associate
+
+- name: Timothy Dolch
+  affiliation: Hillsdale College
+  location: Hillsdale, MI
+  status: full
+
+- name: Rob Ferdman
+  affiliation: Department of Physics, University of East Anglia 
+  location: Norwich, UK
+  status: full
+
+- name: Elizabeth Ferrara
+  affiliation: University of Maryland
+  location: College Park, MD
+  status: full
+
+- name: Roland Haas
+  affiliation: National Center for Supercomputing Applications, University of Illinois at Urbana-Champaign
+  location: Urbana, IL
+  status: associate
+
+- name: Eliu Huerta
+  affiliation: National Center for Supercomputing Applications, University of Illinois at Urbana-Champaign
+  location: Urbana, IL
+  status: associate
+
+- name: Fredrick Jenet
+  affiliation: University of Texas Rio Grande Valley
+  location: Brownsville, TX
+  website: http://www.phys.utb.edu/people/jenet.php
+  status: full
+
+- name: David Kaplan
+  affiliation: University of Wisconsin Milwaukee
+  location: Milwaukee, WI
+  website: http://www4.uwm.edu/letsci/physics/staff/david_kaplan.cfm
+  status: full
+
+- name: Victoria Kaspi
+  affiliation: Department of Physics, McGill University
+  location: Montreal, QC Canada
+  website: http://www.hep.physics.mcgill.ca/~vkaspi/new_web_site/en/index.php
+  status: full
+
+- name: Joey Shapiro Key
+  affiliation: University of Washington Bothell 
+  location: Bothell, WA
+  website: http://www.uwb.edu/physical-sciences/research/faculty-research-projects#Joey-research
+  status: associate
+
+- name: Scott Koranda
+  affiliation: Spherical Cow Group
+  location: Milwaukee, WI
+  status: associate
+
+- name: Joseph Lazio
+  affiliation: Jet Propulsion Laboratory, California Institute of Technology
+  localtion: Pasadena, CA
+  status: full
+
+- name: Tyson Littenberg
+  affiliation: University of Alabama
+  location: Huntsville, AL
+  status: associate
+
+- name: Andrea Lommen
+  affiliation: Department of Physics and Astronomy, Franklin & Marshall College
+  location: Lancaster, PA
+  website: http://www.fandm.edu/alommen
+  status: full
+
+- name: Duncan Lorimer
+  affiliation: Department of Physics and Astronomy, West Virginia University
+  location: Morgantown, WV
+  website: http://astro.wvu.edu/people/dunc/
+  status: full
+
+- name: Carlos Lousto
+  affiliation: Rochester Institute of Technology
+  location: Rochester, NY
+  status: associate
+
+- name: Ryan Lynch
+  affiliation: Green Bank Observatory
+  location: Green Bank, WV
+  website: http://www.astro.physics.mcgill.ca/profile.php?p=1050
+  status: full
+
+- name: Chung-Pei Ma
+  affiliation: University of California, Berkeley
+  location: Berkeley, CA
+  website: http://w.astro.berkeley.edu/~cpma/
+  status: associate
+
+- name: Walid Majid
+  affiliation: Jet Propulsion Lab, California Institute of Technology
+  location: Pasadena, CA
+  status: associate
+
+- name: Maura McLaughlin
+  affiliation: Department of Physics and Astronomy, West Virginia University
+  location: Morgantown, WV
+  website: http://astro.wvu.edu/people/maura/
+  status: full
+
+- name: Sean McWilliams
+  affiliation: Department of Physics and Astronomy, West Virginia University
+  location: Morgantown, WV
+  website: http://community.wvu.edu/~stm027/Sean_McWilliams/Welcome.html
+  status: full
+
+- name: David Nice
+  affiliation: Physics Department, Lafayette College
+  location: Lafayette, PA
+  website: http://sites.lafayette.edu/niced/
+  status: full
+
+- name: Scott Ransom
+  affiliation: National Radio Astronomy Observatory
+  location: Charlottesville, VA
+  website: http://www.cv.nrao.edu/~sransom
+  status: full
+ 
+- name: Paul Ray
+  affiliation: Naval Research Laboratory
+  location: Washington D.C.
+  status: full
+
+- name: Joseph Romano
+  affiliation: Department of Physics, University of Texas Rio Grande Valley
+  location: Brownsville, TX
+  website: http://www.phys.utb.edu/people/romano.php
+  status: associate
+
+- name: Xavier Siemens
+  affiliation: University of Wisconson Milwaukee
+  location: Milwaukee, WI
+  website: http://www.lsc-group.phys.uwm.edu/~siemens/
+  status: full
+
+- name: Ingrid Stairs
+  affiliation: Department of Physics and Astronomy, University of British Columbia
+  location: Vancouver, BC
+  website: http://www.astro.ubc.ca/people/stairs/
+  status: full
+
+- name: Daniel Stinebring
+  affiliation: Department of Physics and Astronomy, Oberlin College
+  location: Oberlin, OH
+  website: http://new.oberlin.edu/arts-and-sciences/departments/physics/faculty_detail.dot?id=21215
+  status: full
+
+- name: Michele Vallisneri
+  affiliation: Jet Propulsion Laboratory, California Institute of Technology
+  location: Pasadena, CA
+  website: http://www.vallis.org/
+  status: full
+
+- name: Yan Wang
+  affiliation: School of Physics, Huazhong University of Science and Technology
+  location: Wuhan, Hubei Provence, China
+  status: associate
+
+- name: Kathryn Williamson
+  affiliation: Department of Physics and Astronomy, West Virginia University
+  location: Morgantown, WV
+  status: associate
