@@ -3,6 +3,8 @@
 Generate authorlist .tex files
 """
 
+from __future__ import print_function
+
 import yaml
 
 db_dir = "yml_dbs/"
